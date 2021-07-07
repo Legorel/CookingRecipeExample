@@ -1,2 +1,2 @@
 # CookingRecipeExemple
-An example to create a custom cooking recipe with Fabricmc
+An example of a custom cooking recipe type with Fabricmc
